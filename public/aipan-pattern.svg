@@ -1,0 +1,65 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="100" height="100" fill="#FFFFFF" />
+  
+  <!-- Border Pattern -->
+  <rect x="5" y="5" width="90" height="90" stroke="#EF4444" stroke-width="2" fill="none" />
+  
+  <!-- Corner Decorations -->
+  <circle cx="5" cy="5" r="3" fill="#EF4444" />
+  <circle cx="95" cy="5" r="3" fill="#EF4444" />
+  <circle cx="5" cy="95" r="3" fill="#EF4444" />
+  <circle cx="95" cy="95" r="3" fill="#EF4444" />
+  
+  <!-- Center Mandala -->
+  <circle cx="50" cy="50" r="20" stroke="#EF4444" stroke-width="2" fill="none" />
+  <circle cx="50" cy="50" r="15" stroke="#EF4444" stroke-width="1" fill="none" />
+  <circle cx="50" cy="50" r="10" stroke="#EF4444" stroke-width="1" fill="none" />
+  <circle cx="50" cy="50" r="5" fill="#EF4444" />
+  
+  <!-- Radial Lines -->
+  <line x1="50" y1="30" x2="50" y2="10" stroke="#EF4444" stroke-width="1" />
+  <line x1="50" y1="70" x2="50" y2="90" stroke="#EF4444" stroke-width="1" />
+  <line x1="30" y1="50" x2="10" y2="50" stroke="#EF4444" stroke-width="1" />
+  <line x1="70" y1="50" x2="90" y2="50" stroke="#EF4444" stroke-width="1" />
+  
+  <!-- Diagonal Lines -->
+  <line x1="35" y1="35" x2="20" y2="20" stroke="#EF4444" stroke-width="1" />
+  <line x1="65" y1="35" x2="80" y2="20" stroke="#EF4444" stroke-width="1" />
+  <line x1="35" y1="65" x2="20" y2="80" stroke="#EF4444" stroke-width="1" />
+  <line x1="65" y1="65" x2="80" y2="80" stroke="#EF4444" stroke-width="1" />
+  
+  <!-- Dots Pattern -->
+  <circle cx="15" cy="15" r="1.5" fill="#EF4444" />
+  <circle cx="25" cy="15" r="1.5" fill="#EF4444" />
+  <circle cx="35" cy="15" r="1.5" fill="#EF4444" />
+  <circle cx="45" cy="15" r="1.5" fill="#EF4444" />
+  <circle cx="55" cy="15" r="1.5" fill="#EF4444" />
+  <circle cx="65" cy="15" r="1.5" fill="#EF4444" />
+  <circle cx="75" cy="15" r="1.5" fill="#EF4444" />
+  <circle cx="85" cy="15" r="1.5" fill="#EF4444" />
+  
+  <circle cx="15" cy="85" r="1.5" fill="#EF4444" />
+  <circle cx="25" cy="85" r="1.5" fill="#EF4444" />
+  <circle cx="35" cy="85" r="1.5" fill="#EF4444" />
+  <circle cx="45" cy="85" r="1.5" fill="#EF4444" />
+  <circle cx="55" cy="85" r="1.5" fill="#EF4444" />
+  <circle cx="65" cy="85" r="1.5" fill="#EF4444" />
+  <circle cx="75" cy="85" r="1.5" fill="#EF4444" />
+  <circle cx="85" cy="85" r="1.5" fill="#EF4444" />
+  
+  <circle cx="15" cy="25" r="1.5" fill="#EF4444" />
+  <circle cx="15" cy="35" r="1.5" fill="#EF4444" />
+  <circle cx="15" cy="45" r="1.5" fill="#EF4444" />
+  <circle cx="15" cy="55" r="1.5" fill="#EF4444" />
+  <circle cx="15" cy="65" r="1.5" fill="#EF4444" />
+  <circle cx="15" cy="75" r="1.5" fill="#EF4444" />
+  
+  <circle cx="85" cy="25" r="1.5" fill="#EF4444" />
+  <circle cx="85" cy="35" r="1.5" fill="#EF4444" />
+  <circle cx="85" cy="45" r="1.5" fill="#EF4444" />
+  <circle cx="85" cy="55" r="1.5" fill="#EF4444" />
+  <circle cx="85" cy="65" r="1.5" fill="#EF4444" />
+  <circle cx="85" cy="75" r="1.5" fill="#EF4444" />
+</svg>
+
